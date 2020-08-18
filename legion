@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="ult-8"/>
+	<title>Lenovo Legion</title>
+</head>
+<body>
+	<h1>Legion</h1>
+	Lenovo Legion 7i, Legion 5Pi, and Legion 5i laptops have been launched in India. 
+	The laptops are powered by the<u>10th-generation Intel Core CPUs and up to Nvidia GeForce RTX GPUs</u>. 
+	Lenovo's Legion lineup of laptops is aimed at gaming and productivity, thus they feature high refresh rate displays that are vivid with high colour accuracy. 
+	The three Legion laptops also come with some improvements over the previous generation models, especially in terms of cooling and the keyboard. 
+	The Lenovo Legion 7i, Legion 5Pi, and Legion 5i are each offered in single colour option.
+	<br/>Legion comes in three versions :
+	<ul>
+		<li>Legion 7i</li>
+		<li>Legion 5Pi</li>
+		<li>Legion 5i</li>
+	</ul>
+	<h3>Lenovo Legion 7i specifications</h3>
+	<ul>
+		<li> Windows 10 pre-installed.</li> 
+		<li>15.6-inch full-HD (1,920x1,080 pixels) IPS anti-glare display with up to 144Hz refresh rate.</li> 
+		<li>Upto <i>10th-generation Intel Core i9 H-series processor</i> and <b>Nvidia GeForce RTX 2080</b> Super Max-Q GPU with <b>8GB VRAM</b>.</li> 
+		<li><b>32GB of DDR4 RAM</b> Dual drive configurations are available as well.</li>
+		<li>The audio is handled by two 2W Dolby Atmos speakers and battery capacity is listed as 80Wh.</li>
+		<li>Can deliver up to 8 hours of battery life.</li>
+		<li>For connectivity, you get WiFi 6 802.11AX (2 x 2), Bluetooth v5.0, a USB 3.1 Gen 1 Type-A port, two USB 3.1 Gen 2 ports, an HDMI 2.0 port, RJ45 Ethernet, a Thunderbolt 3 port, a USB 3.1 Gen 1 Type-C port with DisplayPort 1.4 support, and a headphone/mic combo jack.</li>
+	</ul>
+	<h3>Lenovo Legion 5Pi specifications</h3>
+    <ul>
+		<li>The Legion 5Pi features full-HD IPS display with 100 percent sRGB color accuracy and up to 144Hz refresh rate.</li>  
+		<li>Upto 10th-generation Intel Core i7-10750H processor and Nvidia GeForce RTX 2060 GPU.</li>  
+		<li>It comes with Dolby Atmos sound with Harman Kardon speakers.</li>  
+		<li>The battery is the same as the Legion 7i with 80Wh and a claimed battery life of up to 8 hours.</li>  
+		<li>It also comes with Windows 10 pre-installed and the weight starts at 2.5kg.</li> 
+	</ul>
+</body>
+</html>
